@@ -5,8 +5,7 @@ HOMEPAGE
 CARD PAGE 
 ![image](https://user-images.githubusercontent.com/83570746/156630992-f7abc613-5e19-43a2-9562-4bd0a7aafb98.png)
 
-Tecnologias
-Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+# Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ⚙️ MirageJS
 
