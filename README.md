@@ -42,10 +42,16 @@ CARD PAGE
 # Instalação e uso
 
 # Clone this repository
-$ git clone https://github.com/isaacmarcos-oficial/RocketShoes
+$ git clone https://github.com/luanlops/RocketShoes
+
 # Go into the repository
-$ cd react-rocketshoes
+$ cd rocketshoes
+
 # Install dependencies
 $ yarn install
+
+# Run ffake api server
+$ yarn server
+
 # Run the app
 $ yarn start
