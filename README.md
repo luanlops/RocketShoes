@@ -51,7 +51,7 @@ $ cd RocketShoes
 # Install dependencies
 $ yarn install
 
-#Run fake Api
+# Run fake api
 $ yarn server
 
 # Run the app
