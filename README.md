@@ -42,16 +42,21 @@ CARD PAGE
 # Instalação e uso
 
 Clone this repository
+
 $ git clone https://github.com/luanlops/RocketShoes
 
 Go into the repository
+
 $ cd RocketShoes
 
 Install dependencies
+
 $ yarn install
 
 Run fake api
+
 $ yarn server
 
 Run the app
+
 $ yarn start
