@@ -1,4 +1,4 @@
-# RocketShoes
+# RocketShoes 
 HOMEPAGE
 ![image](https://user-images.githubusercontent.com/83570746/156630893-54a73a27-d910-4aea-9198-4e94d45392e9.png)
 
@@ -39,19 +39,18 @@ CARD PAGE
 
 ⚙️ Reactotron
 
-# Instalação e uso
 
+## Instalação e uso
+
+```bash
 # Clone this repository
 $ git clone https://github.com/luanlops/RocketShoes
-
 # Go into the repository
 $ cd rocketshoes
-
 # Install dependencies
 $ yarn install
-
-# Run ffake api server
+# Run fake api
 $ yarn server
-
 # Run the app
 $ yarn start
+```
