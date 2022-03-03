@@ -41,6 +41,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 ⚙️ Reactotron
 
 Instalação e uso
+
 # Clone this repository
 $ git clone https://github.com/luanlops/RocketShoes
 
@@ -49,6 +50,9 @@ $ cd RocketShoes
 
 # Install dependencies
 $ yarn install
+
+#Run fake Api
+$ yarn server
 
 # Run the app
 $ yarn start
